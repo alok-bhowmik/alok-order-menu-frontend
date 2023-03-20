@@ -1,0 +1,140 @@
+
+* {
+  font-family: "Montserrat";
+}
+
+
+html {
+
+}
+
+
+body{
+  background: #f4f7fa !important;
+  
+}
+.wrapper{
+  
+}
+
+footer {
+  background-color: #647393;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+footer a{
+  text-decoration: none;
+}
+
+.header{
+  background: none;
+}
+.header, .header a{
+  color: #3f4d67
+}
+
+.sidebar-header{
+  color:#fff;
+}
+
+.btn-floating{
+  border-radius: 50% !important;
+}
+
+.field-label{
+  font-size: smaller;
+}
+.field-data{
+  border-bottom: 1px solid #ccc;
+  
+}
+
+.related-list-table a{
+  text-decoration: none;
+}
+
+.btn-primary{
+  background-color: #0dcaf0 !important;
+  color: #000 !important;
+  border-color: #0dcaf0 !important;
+}
+
+.login-form{
+  background-color: #fff;
+  width: 100%;
+  box-shadow: 0 1px 20px 0 rgb(69 90 100 / 8%);
+  margin-top:5rem;
+}
+
+.login-form i{
+  color: #0dcaf0;
+
+}
+.login-section{
+  border-left: 1px solid #ccc;
+}
+
+.login-form img{
+  width: 100%;
+}
+
+.login-form .vr{
+  border-right: 1px solid #ccc;
+}
+.data-table a{
+  text-decoration: none;
+}
+
+.data-table th{
+  background-color: #333f54 !important;
+    color: #fff;
+    border: 1px solid #333f54;
+}
+
+.data-table{
+  border: 1px solid #333f54;
+}
+
+.view-form label{
+  font-size: smaller;
+  display: block;
+  margin-top: 1rem;
+}
+
+.view-form-header{
+  background-color: #333f54;
+  color: #fff;
+  padding: .5rem;
+}
+
+.view-form span{
+  display: block;
+  border-bottom: 1px solid #ccc;
+  
+}
+
+.fl{
+  padding-left: 0px !important;
+}
+.fr{
+  padding-right: 0px !important;
+}
+
+.data-table {
+  font-size: smaller;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+  
+}
+
+
